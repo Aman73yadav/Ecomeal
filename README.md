@@ -2,8 +2,8 @@
 
 A production-grade restaurant inventory management system that works reliably under unstable internet, handles 1000+ items smoothly, and uses AI to reduce food waste.
 
-**Live Demo:** _(deploy link here)_  
-**GitHub:** _(repo link here)_
+**Live Demo:** [ecomeal-chi.vercel.app](https://ecomeal-chi.vercel.app)  
+**GitHub:** [Aman73yadav/Ecomeal](https://github.com/Aman73yadav/Ecomeal)
 
 ---
 
